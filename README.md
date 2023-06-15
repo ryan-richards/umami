@@ -6,7 +6,7 @@ Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 
 A detailed getting started guide can be found at [https://umami.is/docs/](https://umami.is/docs/)
 
-## Installing from source
+## Installing from source 1
 
 ### Requirements
 
